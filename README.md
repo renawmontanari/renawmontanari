@@ -4,7 +4,7 @@
 
 ## About me:<br>
 ⛪   Currently working like developer freelancer.<br>
-❤️   Searching for projects to collaborate at UI/UX Designer - Front-end.<br>
+❤️   Searching for projects to collaborate at UI/UX Designer - Frontend.<br>
 📚   Studing Analysis and systems development at ITE.
 
 ## Github Analitycs
