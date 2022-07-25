@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Renan
 
-👨🏻‍💻 I'm a UI/UX Designer and Developer, passionate about solving problems with programming.
+💻 I'm a UI/UX Designer and Developer, passionate about solving problems with programming.
 
 ## About me:<br>
 ⛪   Currently working like developer freelancer.<br>
