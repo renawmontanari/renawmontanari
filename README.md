@@ -4,8 +4,8 @@
 
 ## About me:<br>
 ⛪   Studying the 2nd semester of systems analysis and development.<br>
-❤️   Searching for projects to collaborate at UX/UI Designer - Frontend.<br>
-📚   Studying Javascript.
+❤️   Searching for projects to collaborate at UX/UI Designer and Frontend.<br>
+📚   Studying JavaScript.
 
 ## Github Analitycs
 <div align="center">
