@@ -3,7 +3,7 @@
 💻 I'm a UX/UI Designer and Developer, passionate about solving problems with programming.
 
 ## About me:<br>
-⛪   Studying the 2nd semester of systems analysis and development.<br>
+⛪   Studying the 2nd semester of Systems Analysis and Development.<br>
 ❤️   Searching for projects to collaborate at UX/UI Designer and Frontend.<br>
 📚   Studying JavaScript.
 
