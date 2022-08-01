@@ -3,9 +3,9 @@
 💻 I'm a UX/UI Designer and Developer, passionate about solving problems with programming.
 
 ## About me:<br>
-⛪   Currently working like developer freelancer.<br>
+⛪   Studying the 2nd semester of systems analysis and development.<br>
 ❤️   Searching for projects to collaborate at UX/UI Designer - Frontend.<br>
-📚   Studing Analysis and systems development at ITE.
+📚   Studying Javascript.
 
 ## Github Analitycs
 <div align="center">
