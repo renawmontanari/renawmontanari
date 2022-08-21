@@ -10,6 +10,8 @@
 ## Github Analitycs
 <div align="center">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&langs_count=7&theme=dark"/>
+  
+  <img height="180em" src="https://camo.githubusercontent.com/b48aec4fb3358250e5a7247f77def1d3377dbe70f9381b0c63f7da9d65ab2de0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4775737461766f44696173536f757a612673686f775f69636f6e733d74727565267468656d653d7261646963616c26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=renawmontanari&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </div><br>
 
 ## Technologies and Tools
