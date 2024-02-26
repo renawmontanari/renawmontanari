@@ -3,9 +3,9 @@
 💻 I'm a Developer, passionate about solving problems with programming.
 
 ## About me:<br>
-⛪   Studying the 4nd semester of Systems Analysis and Development.<br>
+
 ❤️   Searching for projects to collaborate at UX/UI Designer and Frontend.<br>
-📚   Studying JavaScript.
+📚   always studying.
 
 ## Github Analitycs
 <div align="center">
