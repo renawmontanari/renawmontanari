@@ -9,7 +9,7 @@
 
 ## Github Analitycs
 <div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&langs_count=8&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
 
 ## Technologies and Tools
