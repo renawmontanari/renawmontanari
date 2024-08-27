@@ -1,43 +1,29 @@
-## Olá 👋, sou o Renan
+## Olá 👋, eu sou o Renan!
 
-💻 Sou um desenvolvedor apaixonado por resolver problemas com programação.
+💻 Desenvolvedor apaixonado por transformar ideias em soluções digitais eficientes e elegantes.
 
-## Sobre mim:<br>
+### Sobre Mim
 
-❤️   Procurando projetos para colaborar em Frontend.<br>
-📚   Sempre estudando.
+- ❤️ **Paixão:** Sou apaixonado por tecnologia e adoro trabalhar com desenvolvimento Frontend. Estou sempre à procura de novos desafios e oportunidades para colaborar em projetos inovadores.
+- 📚 **Aprendizagem Contínua:** Sou um eterno estudante, sempre em busca de novas tecnologias, frameworks e melhores práticas para aprimorar minhas habilidades e conhecimento.
+- 🤝 **Colaboração:** Acredito no poder do trabalho em equipe e na importância de compartilhar conhecimento. Estou sempre disposto a ajudar e aprender com a comunidade de desenvolvedores.
 
-## Análise do Github
-<div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&langs_count=10&theme=dark"/>
-</div><br>
+### Habilidades Técnicas
 
-## Tecnologias e Ferramentas
-<div align="center"> 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Renan-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Renan-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renan-CSS" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Renan-type" height="30" width="80" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)">
-  <img align="center" alt="Renan-CSS" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Renan-CSS" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Renan-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Renan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div></div>
+- **Linguagens de Programação:** JavaScript, HTML, CSS
+- **Frameworks e Bibliotecas:** React, Next.js, Bootstrap, Tailwind CSS
+- **Ferramentas e Tecnologias:** Git, GitHub, Webpack, Visual Studio Code
+- **Backend:** Node.js, Express.js
+- **Banco de Dados:** MongoDB, MySQL
+- **Outras Habilidades:** Design Responsivo, Controle de Versão, Metodologias Ágeis
 
-##
+### Como Me Encontrar
 
-## Meus contatos
-<div align="center"> 
-<div>
-  <a href = "mailto:rwmontanari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-w-montanari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-</div>
+- **LinkedIn:** [https://www.linkedin.com/in/renan-w-montanari/](#)
+- **Portfólio:** [https://prwm.vercel.app/](#)
 
-<!---
-renawmontanari/renawmontanari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+### Vamos Colaborar?
+
+Estou sempre aberto a novas oportunidades de colaboração e desenvolvimento. Se você tem um projeto interessante ou apenas quer trocar ideias, não hesite em me contatar!
