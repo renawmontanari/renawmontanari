@@ -1,18 +1,18 @@
-## Hi there 👋, I'm Renan
+## Olá 👋, sou o Renan
 
-💻 I'm a Developer, passionate about solving problems with programming.
+💻 Sou um desenvolvedor apaixonado por resolver problemas com programação.
 
-## About me:<br>
+## Sobre mim:<br>
 
-❤️   Searching for projects to collaborate at UX/UI Designer and Frontend.<br>
-📚   always studying.
+❤️   Procurando projetos para colaborar em Frontend.<br>
+📚   Sempre estudando.
 
-## Github Analitycs
+## Análise do Github
 <div align="center">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
 
-## Technologies and Tools
+## Tecnologias e Ferramentas
 <div align="center"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Renan-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,7 +28,7 @@
 
 ##
 
-## My contacts
+## Meus contatos
 <div align="center"> 
 <div>
   <a href = "mailto:rwmontanari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
