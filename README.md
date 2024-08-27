@@ -19,8 +19,8 @@
 
 ### Como Me Encontrar
 
-- **LinkedIn:** [https://www.linkedin.com/in/renan-w-montanari/](#)
-- **Portfólio:** [https://prwm.vercel.app/](#)
+- **LinkedIn:** [https://bit.ly/renalk](#)
+- **Portfólio:** [https://bit.ly/renapfolio](#)
 
 ---
 
