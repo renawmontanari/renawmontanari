@@ -19,8 +19,8 @@
 
 ### Como Me Encontrar
 
-- **LinkedIn:** [https://bit.ly/renalk]
-- **Portfólio:** [https://bit.ly/renapfolio](#)
+- **LinkedIn:** https://bit.ly/renalk
+- **Portfólio:** https://bit.ly/renapfolio
 
 ---
 
