@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
@@ -45,6 +46,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" alt="Styled Components" />
 </p>
+
 
 
 ---
