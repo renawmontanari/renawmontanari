@@ -6,6 +6,8 @@
 
 # 👋 Olá, eu sou o Renan!
 
+🎓 Formado em ADS
+
 💻 **Desenvolvedor Frontend** com experiência em React e Next.js, apaixonado por criar interfaces intuitivas, responsivas e otimizadas. Sempre em busca de inovação e excelência no código.
 
 ---
