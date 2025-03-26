@@ -1,7 +1,7 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=renawmontanari&leftColor=000000&rightColor=0adb3f&type=total&label=TOTAL%20DE%20VISUALIZAÇÕES&style=none)
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D16AQE_BtgWt3EZwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659471061121?e=1740614400&v=beta&t=iYczAqxKdxUJQg7iLpKEZOsIR1vRaF3kCClZOTuFZe8" alt="Renan Montanari - Frontend Developer" />
+  <img src="[https://media.licdn.com/dms/image/v2/C4D16AQE_BtgWt3EZwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659471061121?e=1740614400&v=beta&t=iYczAqxKdxUJQg7iLpKEZOsIR1vRaF3kCClZOTuFZe8](https://media.licdn.com/dms/image/v2/C4D16AQE_BtgWt3EZwQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1659471061121?e=1748476800&v=beta&t=N-hIRyj7zkg_6V2d7sGAp-SnsZeylYPnHNqZ7DZrgdE)" alt="Renan Montanari - Frontend Developer" />
 </p>
 
 # 👋 Olá, eu sou o Renan!
