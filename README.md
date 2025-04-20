@@ -8,7 +8,14 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-💻 **Desenvolvedor Frontend** apaixonado por criar interfaces intuitivas, responsivas e otimizadas. Sempre em busca de inovação e excelência no código.
+💻 **Sou desenvolvedor Front-end** com foco em criar aplicações modernas, responsivas e de alta performance. Tenho experiência prática com React, Next.js, Typescript e Tailwind CSS, além de conhecimentos em Node.js, Git e consumo de APIs.
+
+Gosto de escrever código limpo, colaborar com o time e estar sempre aprendendo. Valorizo ambientes com boa comunicação, onde posso contribuir com minhas habilidades e crescer junto com o time e o produto.
+
+Atualmente, busco oportunidades onde eu possa atuar em projetos desafiadores, com boas práticas, cultura saudável e espaço para evolução técnica e profissional.
+
+Tecnologias que mais uso no dia a dia:
+React | Next.js | Typescript | Tailwind CSS | Git | Node.js | Figma
 
 ---
 
