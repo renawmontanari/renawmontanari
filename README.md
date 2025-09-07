@@ -37,12 +37,6 @@ Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
 ## 🌟 Projetos em Destaque
 
 ### [Portfólio Pessoal](https://bit.ly/renapfolio)
