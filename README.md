@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGzZRjSBQ7i6g/profile-displaybackgroundimage-shrink_350_1400/B4DZklQYdDIcAY-/0/1757266676394?e=1759968000&v=beta&t=N3c-spNZty8B8Tlm38HWYiSvRb-GdFgCMckiQFI3Svs" alt="Renan Montanari - Full Stack Devoloper" />
+</p>
+
 # 👋 Olá, eu sou o Renan Montanari!
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
