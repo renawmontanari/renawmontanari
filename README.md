@@ -1,80 +1,66 @@
-
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHK7b2tacsQtw/profile-displaybackgroundimage-shrink_350_1400/B4DZYXqnibHAAg-/0/1744153770740?e=1758153600&v=beta&t=R3FQ3yQogIEXkfJFIJ_ZPqsUYEagbRqeIaxsH2V_iIM" alt="Renan Montanari - Frontend Developer" />
-</p>
-
-# 👋 Olá, eu sou o Renan!
+# 👋 Olá, eu sou o Renan Montanari!
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-💻 **Sou desenvolvedor Front-end** com foco em criar aplicações modernas, responsivas e de alta performance. Tenho experiência prática com React, Next.js, Typescript e Tailwind CSS, além de conhecimentos em Node.js, Git e consumo de APIs.
+💻 **Desenvolvedor Full Stack** com expertise em criar aplicações modernas, escaláveis e de alta performance. Experiência sólida em React, Next.js, TypeScript e Node.js, com foco em boas práticas de desenvolvimento, código limpo e arquitetura eficiente.
 
-Gosto de escrever código limpo, colaborar com o time e estar sempre aprendendo. Valorizo ambientes com boa comunicação, onde posso contribuir com minhas habilidades e crescer junto com o time e o produto.
+## 🚀 Sobre Mim
 
-Atualmente, busco oportunidades onde eu possa atuar em projetos desafiadores, com boas práticas, cultura saudável e espaço para evolução técnica e profissional.
+Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções elegantes e eficientes. Minha abordagem combina:
 
-Tecnologias que mais uso no dia a dia:
-React | Next.js | Typescript | Tailwind CSS | Git | Node.js | Figma
+- ❤️ **Paixão por código**: Resolver problemas reais através de soluções digitais bem arquitetadas
+- 📚 **Aprendizado contínuo**: Constantemente explorando novas tecnologias e melhores práticas
+- 🤝 **Colaboração**: Valorizo trabalho em equipe, comunicação clara e compartilhamento de conhecimento
+- 🎯 **Foco em resultados**: Desenvolvimento orientado a valor para o negócio e experiência do usuário
 
----
+## 🛠️ Stack Técnica
 
-## 🌟 Sobre Mim
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-- ❤️ **Paixão:** Resolver problemas reais através de soluções digitais inovadoras.
-- 📚 **Aprendizagem Contínua:** Eterno estudante de novas tecnologias, frameworks e melhores práticas.
-- 🤝 **Colaboração:** Valorizo o trabalho em equipe e o compartilhamento de conhecimento na comunidade de desenvolvedores.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
----
+### Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-## 🚀 Projetos em Destaque
+### Ferramentas & DevOps
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### [**Portfólio Pessoal**](https://bit.ly/renapfolio)
-> Um portfólio interativo e responsivo com animações elegantes usando Nextjs e Tailwind CSS.
+## 📈 Estatísticas do GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renawmontanari&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
----
+## 🌟 Projetos em Destaque
 
-## 🛠️ Tecnologias e Ferramentas  
+### [Portfólio Pessoal](https://bit.ly/renapfolio)
+Portfólio interativo desenvolvido com Next.js e Tailwind CSS, apresentando animações fluidas e design responsivo.
+
+## 📫 Conecte-se Comigo
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nestjs" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-</p>
-
-
-
----
-
-## 🌎 Como Me Encontrar
-
-<p align="left" style="display: flex; gap: 20px;">
-  <a href="https://www.linkedin.com/in/renan-w-montanari/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  <a href="https://www.linkedin.com/in/renan-w-montanari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bit.ly/renapfolio" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://bit.ly/renapfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-## ✨ Vamos Colaborar?
+**Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar sobre como podemos criar soluções incríveis juntos!** 🚀
 
-Estou sempre aberto a novas oportunidades de colaboração e desenvolvimento. Se você tem um projeto interessante ou quer trocar ideias, entre em contato.  
-> "Vamos construir algo incrível juntos!" 🚀
+*"O melhor modo de prever o futuro é criá-lo." - Peter Drucker*
