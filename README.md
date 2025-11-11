@@ -49,7 +49,7 @@ Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções
 
 ## 🌟 Projetos em Destaque
 
-### [Portfólio Pessoal](https://bit.ly/renapfolio)
+### [Portfólio Pessoal](https://www.renanmontanari.com.br)
 Portfólio interativo desenvolvido com Next.js e Tailwind CSS, apresentando animações fluidas e design responsivo.
 
 ## 📫 Conecte-se Comigo
