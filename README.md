@@ -58,7 +58,7 @@ Portfólio interativo desenvolvido com Next.js e Tailwind CSS, apresentando anim
   <a href="https://www.linkedin.com/in/renan-w-montanari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://bit.ly/renapfolio">
+  <a href="https://renanmontanari.com.br">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio" />
   </a>
 </p>
