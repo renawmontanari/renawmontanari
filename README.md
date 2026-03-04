@@ -2,13 +2,13 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGHh1aDPKLcew/profile-displaybackgroundimage-shrink_200_800/B4DZnzJa87GkAU-/0/1760720957903?e=1773878400&v=beta&t=qE0dvDN3-WMUd3Zvf-nTMdgGyJDKXPktgzrbOQpup-4" alt="Renan Montanari - Full Stack Devoloper" />
 </p>
 
-# 👋 Olá, eu sou o Renan Montanari!
+# Olá, eu sou o Renan Montanari!
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+Formado em Análise e Desenvolvimento de Sistemas
 
-💻 **Desenvolvedor Full Stack** com expertise em criar aplicações modernas, escaláveis e de alta performance. Experiência sólida em React, Next.js, TypeScript e Node.js, com foco em boas práticas de desenvolvimento, código limpo e arquitetura eficiente.
+**Desenvolvedor Full Stack** com expertise em criar aplicações modernas, escaláveis e de alta performance. Experiência sólida em React, Next.js, TypeScript e Node.js, com foco em boas práticas de desenvolvimento, código limpo e arquitetura eficiente.
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções elegantes e eficientes. Minha abordagem combina:
 
@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções
 - 🤝 **Colaboração**: Valorizo trabalho em equipe, comunicação clara e compartilhamento de conhecimento
 - 🎯 **Foco em resultados**: Desenvolvimento orientado a valor para o negócio e experiência do usuário
 
-## 🛠️ Stack Técnica
+## Stack Técnica
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,12 +47,12 @@ Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🌟 Projetos em Destaque
+## Projetos em Destaque
 
 ### [Portfólio Pessoal](https://www.renanmontanari.com.br)
 Portfólio interativo desenvolvido com Next.js e Tailwind CSS, apresentando animações fluidas e design responsivo.
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/renan-w-montanari/">
@@ -65,6 +65,6 @@ Portfólio interativo desenvolvido com Next.js e Tailwind CSS, apresentando anim
 
 ---
 
-**Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar sobre como podemos criar soluções incríveis juntos!** 🚀
+**Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar sobre como podemos criar soluções incríveis juntos!** 
 
 *"O melhor modo de prever o futuro é criá-lo." - Peter Drucker*
