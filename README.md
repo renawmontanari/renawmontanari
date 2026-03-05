@@ -10,12 +10,13 @@ Formado em Análise e Desenvolvimento de Sistemas
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções elegantes e eficientes. Minha abordagem combina:
+Sou desenvolvedor Full Stack e trabalho criando soluções digitais pensadas para resolver problemas reais. Gosto de participar de todo o processo de construção de um produto, desde a criação de interfaces claras e bem estruturadas no front-end até o desenvolvimento de back-ends sólidos, organizados e preparados para crescer.
 
-- ❤️ **Paixão por código**: Resolver problemas reais através de soluções digitais bem arquitetadas
-- 📚 **Aprendizado contínuo**: Constantemente explorando novas tecnologias e melhores práticas
-- 🤝 **Colaboração**: Valorizo trabalho em equipe, comunicação clara e compartilhamento de conhecimento
-- 🎯 **Foco em resultados**: Desenvolvimento orientado a valor para o negócio e experiência do usuário
+A tecnologia, para mim, sempre foi mais do que apenas código. É um campo de aprendizado contínuo. Por isso estou diariamente estudando, desenvolvendo projetos pessoais e aprofundando conhecimentos em arquitetura de software, design systems e boas práticas de desenvolvimento. A evolução constante faz parte do meu processo.
+
+Fora da programação, gosto de ler, assistir bons filmes e explorar ideias que ampliem a forma de enxergar o mundo e a tecnologia. Também acompanho esportes, atividades que reforçam algo que levo para a carreira: disciplina, trabalho em equipe e evolução contínua.
+
+Acredito que bons projetos nascem da combinação entre tecnologia bem aplicada, pensamento estratégico e curiosidade para aprender sempre.
 
 ## Stack Técnica
 
