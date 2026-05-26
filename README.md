@@ -50,8 +50,8 @@ Acredito que bons projetos nascem da combinação entre tecnologia bem aplicada,
 
 ## Projetos em Destaque
 
-### [Portfólio Pessoal](https://www.renanmontanari.com.br)
-Portfólio interativo desenvolvido com Next.js e Tailwind CSS, apresentando animações fluidas e design responsivo.
+### [BioflowGO](https://bioflowgo.com.br)
+Plataforma de link na bio focada em divulgar projetos e redes sociais em um único link personalizado.
 
 ## Conecte-se Comigo
 
