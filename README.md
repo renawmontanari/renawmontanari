@@ -65,7 +65,7 @@
 
 ```
 Arquitetura pensada antes do primeiro commit
-TypeScript estrito — sem any, sem atalhos
+TypeScript estrito, sem any, sem atalhos
 Código desacoplado, testável e fácil de manter
 Deploy contínuo com CI/CD e ambientes isolados
 Comunicação direta com stakeholders e entregas iterativas
