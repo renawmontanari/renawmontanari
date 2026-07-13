@@ -5,7 +5,7 @@
 <h1 align="center">Olá, sou Renan Montanari 👋</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software Full-Stack</strong> — construindo aplicações escaláveis com React, Next.js e Node.js.
+  <strong>Engenheiro de Software Full-Stack</strong>, construindo aplicações escaláveis com React, Next.js e Node.js.
 </p>
 
 <p align="center">
