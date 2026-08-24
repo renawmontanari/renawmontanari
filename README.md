@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH91F7xj0N4Tw/profile-displaybackgroundimage-shrink_200_800/B4DZ7V7mvFKMAQ-/0/1781705632991?e=1787184000&v=beta&t=_Rttp4u28d0nU6KKPP6QgYsPC_wYHTTZXMYwY5Fzt8s" alt="Renan Montanari — Engenheiro de Software Full-Stack" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH91F7xj0N4Tw/profile-displaybackgroundimage-shrink_200_800/B4DZ7V7mvFKMAQ-/0/1781705632991?e=1788998400&v=beta&t=_dxYmIxGa6xTZjQs1jyOl7FWWs6pIg9z6brbwKqJq9o" alt="Renan Montanari — Engenheiro de Software Full-Stack" />
 </p>
 
 <h1 align="center">Olá, sou Renan Montanari 👋</h1>
