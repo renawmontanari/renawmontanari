@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Renan Montanari — Engenheiro de Software Full-Stack" width="100%" />
+  <img src="./assets/banner.jpeg" alt="Renan Montanari — Engenheiro de Software Full-Stack" width="100%" />
 </p>
 
 <h1 align="center">Renan Montanari</h1>
@@ -49,14 +49,14 @@ Plataforma SaaS de link na bio para o mercado brasileiro: página personalizada,
 
 ## O que eu construo
 
-| | |
-|---|---|
+|                               |                                                                                                                               |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Autenticação e permissões** | Login social, e-mail, sessões seguras e RBAC, feito uma vez do jeito certo, em vez de remendado depois do primeiro incidente. |
-| **Pagamentos e assinaturas** | Checkout, planos, upgrades e webhooks com Stripe. Cobrança recorrente é onde MVP costuma quebrar. |
-| **Painéis e áreas logadas** | Dashboards e ferramentas internas que substituem planilha compartilhada, com dado consistente e histórico confiável. |
-| **APIs e integrações** | WhatsApp, gateways, ERPs e serviços de terceiros, com tratamento de falha e reprocessamento. |
-| **Tempo real** | Notificações, chat e atualização ao vivo com WebSocket, onde recarregar a página não é aceitável. |
-| **Performance e SEO** | Renderização adequada a cada página, Core Web Vitals e indexação, para o produto ser encontrado, não só existir. |
+| **Pagamentos e assinaturas**  | Checkout, planos, upgrades e webhooks com Stripe. Cobrança recorrente é onde MVP costuma quebrar.                             |
+| **Painéis e áreas logadas**   | Dashboards e ferramentas internas que substituem planilha compartilhada, com dado consistente e histórico confiável.          |
+| **APIs e integrações**        | WhatsApp, gateways, ERPs e serviços de terceiros, com tratamento de falha e reprocessamento.                                  |
+| **Tempo real**                | Notificações, chat e atualização ao vivo com WebSocket, onde recarregar a página não é aceitável.                             |
+| **Performance e SEO**         | Renderização adequada a cada página, Core Web Vitals e indexação, para o produto ser encontrado, não só existir.              |
 
 ---
 
