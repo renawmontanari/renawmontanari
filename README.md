@@ -40,7 +40,7 @@ No backend, projeto APIs com Node.js e NestJS pensando em contratos claros, segu
 
 <br />
 
-## 🚀 BioflowGO — produto próprio, em produção
+## 🚀 BioflowGO - produto próprio, em produção
 
 <p align="center">
   <a href="https://bioflowgo.com.br">
@@ -138,13 +138,13 @@ Plataforma SaaS de link na bio para o mercado brasileiro: página personalizada,
 
 ## 🧭 Como eu trabalho
 
-| | Princípio | Na prática |
-| :-: | --- | --- |
-| **01** | **Escopo antes do código** | Decidir o que fica de fora da primeira versão é o que mais economiza dinheiro no projeto inteiro. |
-| **02** | **TypeScript estrito** | Sem `any`, sem atalho que vira dívida no sprint seguinte. |
-| **03** | **Código desacoplado e testável** | Limites explícitos entre módulos, para que trocar uma peça não derrube três. |
-| **04** | **Entrega semanal em ambiente real** | Algo navegável para clicar, não print. Mudança de rumo custa barato quando é cedo. |
-| **05** | **No ar e seu** | Deploy, domínio, banco e acessos no nome do cliente. Se ele trocar de dev amanhã, o próximo entra sem depender de mim. |
+|        | Princípio                            | Na prática                                                                                                             |
+| :----: | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **01** | **Escopo antes do código**           | Decidir o que fica de fora da primeira versão é o que mais economiza dinheiro no projeto inteiro.                      |
+| **02** | **TypeScript estrito**               | Sem `any`, sem atalho que vira dívida no sprint seguinte.                                                              |
+| **03** | **Código desacoplado e testável**    | Limites explícitos entre módulos, para que trocar uma peça não derrube três.                                           |
+| **04** | **Entrega semanal em ambiente real** | Algo navegável para clicar, não print. Mudança de rumo custa barato quando é cedo.                                     |
+| **05** | **No ar e seu**                      | Deploy, domínio, banco e acessos no nome do cliente. Se ele trocar de dev amanhã, o próximo entra sem depender de mim. |
 
 <br />
 
